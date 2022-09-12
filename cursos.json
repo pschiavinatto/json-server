@@ -1,0 +1,48 @@
+[
+    {
+      "id": 1,
+      "name": "Sistemas de Informação",
+      "campus": "CTC - FLorianopolis",
+      "turno": "Noturno",
+      "cargahoraria": "1880",
+      "address": {
+        "street": "Deputado Antonio Edu Vieira",
+        "suite": "A",
+        "city": "Florianopolis",
+        "zipcode": "88010001",
+        "geo": {
+          "lat": "-27.600140563083638", 
+          "lng": "-48.51707932226552"
+        }
+      },
+      "imagem": "teste",
+      "video": "teste",
+      "phone": "teste",
+      "nameCoordenador": "teste",
+      "email": "teste",
+      "website": "teste"
+    },
+    {
+        "id": 2,
+        "name": "teste",
+        "campus": "teste",
+        "turno": "teste",
+        "cargahoraria": "teste",
+        "address": {
+          "street": "teste",
+          "suite": "teste",
+          "city": "teste",
+          "zipcode": "teste",
+          "geo": {
+            "lat": "teste",
+            "lng": "teste"
+          }
+        },
+        "imagem": "teste",
+        "video": "teste",
+        "phone": "teste",
+        "nameCoordenador": "teste",
+        "email": "teste",
+        "website": "teste"
+    }
+  ]
