@@ -1,1 +1,117 @@
-
+[
+    {
+      "id": 1,
+      "name": "Sistemas de Informação",
+      "campus": "CTC - FLorianopolis",
+      "turno": "Noturno",
+      "cargahoraria": "1880",
+      "address": {
+        "street": "Deputado Antonio Edu Vieira",
+        "suite": "A",
+        "city": "Florianopolis",
+        "zipcode": "88010001",
+        "geo": {
+          "lat": "-27.600140563083638", 
+          "lng": "-48.51707932226552"
+        }
+      },
+      "imagem": "",
+      "video": "",
+      "phone": "",
+      "nameCoordenador": "",
+      "email": "",
+      "website": ""
+    },
+    {
+        "id": 2,
+        "name": "",
+        "campus": "",
+        "turno": "",
+        "cargahoraria": "",
+        "address": {
+          "street": "",
+          "suite": "",
+          "city": "",
+          "zipcode": "",
+          "geo": {
+            "lat": "",
+            "lng": ""
+          }
+        },
+        "imagem": "",
+        "video": "",
+        "phone": "",
+        "nameCoordenador": "",
+        "email": "",
+        "website": ""
+    },
+    {
+        "id": 3,
+        "name": "",
+        "campus": "",
+        "turno": "",
+        "cargahoraria": "",
+        "address": {
+          "street": "",
+          "suite": "",
+          "city": "",
+          "zipcode": "",
+          "geo": {
+            "lat": "",
+            "lng": ""
+          }
+        },
+        "imagem": "",
+        "video": "",
+        "phone": "",
+        "nameCoordenador": "",
+        "email": "",
+        "website": ""
+    },
+    {
+        "id": 4,
+        "name": "",
+        "campus": "",
+        "turno": "",
+        "cargahoraria": "",
+        "address": {
+          "street": "",
+          "suite": "",
+          "city": "",
+          "zipcode": "",
+          "geo": {
+            "lat": "",
+            "lng": ""
+          }
+        },
+        "imagem": "",
+        "video": "",
+        "phone": "",
+        "nameCoordenador": "",
+        "email": "",
+        "website": ""
+    },
+    {
+        "id": 5,
+        "name": "",
+        "campus": "",
+        "turno": "",
+        "cargahoraria": "",
+        "address": {
+          "street": "",
+          "suite": "",
+          "city": "",
+          "zipcode": "",
+          "geo": {
+            "lat": "",
+            "lng": ""
+          }
+        },
+        "imagem": "",
+        "video": "",
+        "phone": "",
+        "nameCoordenador": "",
+        "email": "",
+        "website": ""
+      }
+  ]
