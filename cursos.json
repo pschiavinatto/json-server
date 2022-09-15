@@ -2,47 +2,116 @@
     {
       "id": 1,
       "name": "Sistemas de Informação",
-      "campus": "CTC - FLorianopolis",
+      "campus": "Florianopolis",
       "turno": "Noturno",
-      "cargahoraria": "1880",
+      "cargahoraria": "3600",
       "address": {
-        "street": "Deputado Antonio Edu Vieira",
-        "suite": "A",
+        "street": "Centro Tecnológico",
+        "suite": "",
         "city": "Florianopolis",
-        "zipcode": "88010001",
+        "zipcode": "88040-900",
         "geo": {
           "lat": "-27.600140563083638", 
           "lng": "-48.51707932226552"
         }
       },
-      "imagem": "teste",
-      "video": "teste",
-      "phone": "teste",
-      "nameCoordenador": "teste",
-      "email": "teste",
-      "website": "teste"
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Florianopolis_UFSC_CTC.JPG/1024px-Florianopolis_UFSC_CTC.JPG",
+      "video": "",
+      "phone": "4837217548",
+      "nameCoordenador": "Prof. Álvaro Junio Pereira Franco",
+      "email": "alvaro.junio@ufsc.br",
+      "website": "https://sin.ufsc.br/"
     },
     {
         "id": 2,
-        "name": "teste",
-        "campus": "teste",
-        "turno": "teste",
-        "cargahoraria": "teste",
+        "name": "Design",
+        "campus": "Florianopolis",
+        "turno": "Integral",
+        "cargahoraria": "3510 h/a",
         "address": {
-          "street": "teste",
-          "suite": "teste",
-          "city": "teste",
-          "zipcode": "teste",
+          "street": "Centro de Comunicação e Expressão (CCE)",
+          "suite": "Bloco A",
+          "city": "Florianopolis",
+          "zipcode": "88040-900",
           "geo": {
-            "lat": "teste",
-            "lng": "teste"
+            "lat": "-27.600943164311538", 
+            "lng": "-48.5218233570614"
           }
         },
-        "imagem": "teste",
-        "video": "teste",
-        "phone": "teste",
-        "nameCoordenador": "teste",
-        "email": "teste",
-        "website": "teste"
-    }
+        "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQi-rYPzBtf1bhzDSy3plh48vldAE8mKx1gw&usqp=CAU",
+        "video": "",
+        "phone": "4837213728",
+        "nameCoordenador": "Profª. Drª. Marília Matos Gonçalves",
+        "email": "design@contato.ufsc.br",
+        "website": "https://design.ufsc.br/"
+    },
+    {
+        "id": 3,
+        "name": "Ciência da Computação",
+        "campus": "Florianopolis",
+        "turno": "Integral",
+        "cargahoraria": "3672 h/a",
+        "address": {
+          "street": "Centro Tecnológico",
+          "suite": "",
+          "city": "Florianopolis",
+          "zipcode": "88040-900",
+          "geo": {
+            "lat": "-27.600140563083638", 
+            "lng": "-48.51707932226552"
+          }
+        },
+        "imagem": "",
+        "video": "",
+        "phone": "",
+        "nameCoordenador": "",
+        "email": "cco@contato.ufsc.br",
+        "website": "https://cco.ufsc.br/"
+    },
+    {
+        "id": 4,
+        "name": "",
+        "campus": "",
+        "turno": "",
+        "cargahoraria": "",
+        "address": {
+          "street": "",
+          "suite": "",
+          "city": "",
+          "zipcode": "",
+          "geo": {
+            "lat": "",
+            "lng": ""
+          }
+        },
+        "imagem": "",
+        "video": "",
+        "phone": "",
+        "nameCoordenador": "",
+        "email": "",
+        "website": ""
+    },
+    {
+        "id": 5,
+        "name": "",
+        "campus": "",
+        "turno": "",
+        "cargahoraria": "",
+        "address": {
+          "street": "",
+          "suite": "",
+          "city": "",
+          "zipcode": "",
+          "geo": {
+            "lat": "",
+            "lng": ""
+          }
+        },
+        "imagem": "",
+        "video": "",
+        "phone": "",
+        "nameCoordenador": "",
+        "email": "",
+        "website": ""
+      }
   ]
