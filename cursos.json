@@ -4,9 +4,10 @@
       "name": "Sistemas de Informação",
       "campus": "Florianopolis",
       "turno": "Noturno",
-      "cargahoraria": "3600",
+      "cargahoraria": "3600 h/a",
+      "map":"https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14143.14872773914!2d-48.5170718!3d-27.6001269!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xbac58c3ef1d3885e!2sCentro%20Tecnol%C3%B3gico%20da%20UFSC!5e0!3m2!1spt-BR!2sbr!4v1663365145467!5m2!1spt-BR!2sbr",
       "address": {
-        "street": "Centro Tecnológico",
+        "street": "R. Delfino Conti, s/n - Trindade",
         "suite": "",
         "city": "Florianopolis",
         "zipcode": "88040-900",
@@ -16,9 +17,13 @@
         }
       },
       "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Florianopolis_UFSC_CTC.JPG/1024px-Florianopolis_UFSC_CTC.JPG",
-      "video": "",
+      "imagem2": "https://mapio.net/images-p/18225816.jpg",
+      "imagem3": "https://ufscaesquerda.com/wp-content/uploads/2018/06/ctc.jpg",
+      "video": "https://www.youtube.com/watch?v=9qv7zIqITmg&ab_channel=CoperveUFSC",
+      "thumb": "https://github.com/pschiavinatto/json-server/blob/main/images/video_sin.png",
       "phone": "4837217548",
-      "nameCoordenador": "Prof. Álvaro Junio Pereira Franco",
+      "showPhone": "(48)3721-7548",
+      "nameCoordenador": "Prof. Álvaro Junio",
       "email": "alvaro.junio@ufsc.br",
       "website": "https://sin.ufsc.br/"
     },
