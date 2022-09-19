@@ -1,6 +1,7 @@
 [
     {
       "id": 1,
+      "fav": false,
       "name": "Sistemas de Informação",
       "campus": "Florianopolis",
       "turno": "Noturno",
@@ -20,7 +21,7 @@
       "imagem2": "https://mapio.net/images-p/18225816.jpg",
       "imagem3": "https://ufscaesquerda.com/wp-content/uploads/2018/06/ctc.jpg",
       "video": "https://www.youtube.com/watch?v=9qv7zIqITmg&ab_channel=CoperveUFSC",
-      "thumb": "https://raw.githubusercontent.com/pschiavinatto/json-server/main/images/video_sin.png",
+      "thumb": "https://raw.githubusercontent.com/pschiavinatto/json-server/main/images/video_sinf.png",
       "phone": "4837217548",
       "showPhone": "(48)3721-7548",
       "nameCoordenador": "Prof. Álvaro Junio",
@@ -29,92 +30,116 @@
     },
     {
         "id": 2,
-        "name": "Design",
+        "fav": false,
+        "name": "Cinema",
         "campus": "Florianopolis",
-        "turno": "Integral",
-        "cargahoraria": "3510 h/a",
+        "turno": "",
+        "cargahoraria": "",
+        "map":"",
         "address": {
-          "street": "Centro de Comunicação e Expressão (CCE)",
-          "suite": "Bloco A",
-          "city": "Florianopolis",
-          "zipcode": "88040-900",
+          "street": "Centro de Comunicação e Expressão",
+          "suite": "Bloco D, sala 513",
+          "city": "",
+          "zipcode": "88040-970",
           "geo": {
-            "lat": "-27.600943164311538", 
-            "lng": "-48.5218233570614"
-          }
-        },
-        "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQi-rYPzBtf1bhzDSy3plh48vldAE8mKx1gw&usqp=CAU",
-        "video": "",
-        "phone": "4837213728",
-        "nameCoordenador": "Profª. Drª. Marília Matos Gonçalves",
-        "email": "design@contato.ufsc.br",
-        "website": "https://design.ufsc.br/"
-    },
-    {
-        "id": 3,
-        "name": "Ciência da Computação",
-        "campus": "Florianopolis",
-        "turno": "Integral",
-        "cargahoraria": "3672 h/a",
-        "address": {
-          "street": "Centro Tecnológico",
-          "suite": "",
-          "city": "Florianopolis",
-          "zipcode": "88040-900",
-          "geo": {
-            "lat": "-27.600140563083638", 
-            "lng": "-48.51707932226552"
+            "lat": "", 
+            "lng": ""
           }
         },
         "imagem": "",
+        "imagem2": "",
+        "imagem3": "",
         "video": "",
-        "phone": "",
-        "nameCoordenador": "",
-        "email": "cco@contato.ufsc.br",
-        "website": "https://cco.ufsc.br/"
-    },
+        "thumb": "https://raw.githubusercontent.com/pschiavinatto/json-server/main/images/video_cine.png",
+        "phone": "4837216543",
+        "showPhone": "(48) 3721-6543",
+        "nameCoordenador": "Profa. Marta Corrêa",
+        "email": "",
+        "website": ""
+      },
     {
-        "id": 4,
-        "name": "",
-        "campus": "",
+        "id": 3,
+        "fav": false,
+        "name": "Educação Física",
+        "campus": "Florianopolis",
         "turno": "",
         "cargahoraria": "",
+        "map":"",
         "address": {
           "street": "",
           "suite": "",
           "city": "",
           "zipcode": "",
           "geo": {
-            "lat": "",
+            "lat": "", 
             "lng": ""
           }
         },
         "imagem": "",
+        "imagem2": "",
+        "imagem3": "",
         "video": "",
+        "thumb": "https://raw.githubusercontent.com/pschiavinatto/json-server/main/images/video_edf.png",
         "phone": "",
+        "showPhone": "",
         "nameCoordenador": "",
         "email": "",
         "website": ""
-    },
-    {
-        "id": 5,
-        "name": "",
-        "campus": "",
+      },
+      {
+        "id": 4,
+        "fav": false,
+        "name": "Odontologia",
+        "campus": "Florianopolis",
         "turno": "",
         "cargahoraria": "",
+        "map":"",
         "address": {
           "street": "",
           "suite": "",
           "city": "",
           "zipcode": "",
           "geo": {
-            "lat": "",
+            "lat": "", 
             "lng": ""
           }
         },
         "imagem": "",
+        "imagem2": "",
+        "imagem3": "",
         "video": "",
+        "thumb": "https://raw.githubusercontent.com/pschiavinatto/json-server/main/images/video_odonto.png",
         "phone": "",
+        "showPhone": "",
+        "nameCoordenador": "",
+        "email": "",
+        "website": ""
+      },
+      {
+        "id": 5,
+        "fav": false,
+        "name": "Design",
+        "campus": "Florianopolis",
+        "turno": "",
+        "cargahoraria": "",
+        "map":"",
+        "address": {
+          "street": "",
+          "suite": "",
+          "city": "",
+          "zipcode": "",
+          "geo": {
+            "lat": "", 
+            "lng": ""
+          }
+        },
+        "imagem": "",
+        "imagem2": "",
+        "imagem3": "",
+        "video": "",
+        "thumb": "https://raw.githubusercontent.com/pschiavinatto/json-server/main/images/video_design.png",
+        "phone": "",
+        "showPhone": "",
         "nameCoordenador": "",
         "email": "",
         "website": ""
